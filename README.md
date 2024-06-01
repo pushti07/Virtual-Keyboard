@@ -1,7 +1,3 @@
-Sure, here's a draft description you can use for your GitHub project on the virtual keyboard:
-
----
-
 # Virtual Keyboard Project
 
 ## Overview:
@@ -31,12 +27,4 @@ This project implements a virtual keyboard system using computer vision techniqu
 - Add voice input functionality.
 - Enhance the user interface with more customization options.
 
-## Contributing:
-Contributions are welcome! Feel free to submit pull requests, open issues, or suggest new features.
 
-## License:
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this description according to your project's specific details and requirements.
